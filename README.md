@@ -1,2 +1,2 @@
 # Math
-Read, Read, and Read Again! 
+Read, read, and read again to see different aspects of things!
